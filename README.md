@@ -29,22 +29,22 @@ Me destaco por ser **proativo, curioso e dedicado**, sempre buscando escrever **
   <img 
     alt="GitHub Stats" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=MR-R0MEU&show_icons=true&theme=tokyonight&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=LGustavo-dev&show_icons=true&theme=tokyonight&count_private=true"
   />
 
   <img 
     alt="Top Langs" 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-R0MEU&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGustavo-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
   ### 📫 Meus Contatos
 
-[<img align="center" alt="Gmail" title="Gmail" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />](mailto:luiz.gustavo@email.com)
+[<img align="center" alt="Gmail" title="Gmail" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />](mailto:gustavopegonobre@gmail.com)
 &nbsp;
 [<img align="center" alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/luizgustavo)
 &nbsp;
-[<img align="center" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/MR-R0MEU)
+[<img align="center" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/LGustavo-dev)
 
 
 </div>
