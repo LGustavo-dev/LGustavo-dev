@@ -1,4 +1,4 @@
-# 👩🏻‍💻 luiz gustavo
+# 👩🏻‍💻 Luiz gustavo
 
 **`Desenvolvedor Full Stack em formação`**
 
