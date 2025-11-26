@@ -39,12 +39,8 @@ Me destaco por ser **proativo, curioso e dedicado**, sempre buscando escrever **
   />
 
   ### 📫 Meus Contatos
-
-[<img align="center" alt="Gmail" title="Gmail" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />](mailto:gustavopegonobre@gmail.com)
 &nbsp;
-[<img align="center" alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/luizgustavo)
+[<img align="center" alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/luizgustavonobre/)
 &nbsp;
-[<img align="center" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/LGustavo-dev)
-
 
 </div>
